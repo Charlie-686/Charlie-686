@@ -1,11 +1,11 @@
 # Hey there! I'm Charlie686. 💃
-_He/him_
+GMT | he/him
 
-**My active projects:** 
-> 🚔| 686 Callouts.
-A callout pack for LSPDFR that's accumiliated over 170,000 downloads.
+| Projects | About |
+|-----:|-----------|
+|     🚔  [686 Callouts](https://www.lcpdfr.com/downloads/gta5mods/scripts/37390-686-callouts/)| A callout pack for LSPDFR that's accumiliated over 170,000 downloads.|
+|     🤖  LSPDFR-TS Utilities| Using the Discord.NET library, I took a stab at a Discord bot.
 
-> 🤖| LSPDFR-TS Utilities.
-A pretty good stab at making a Discord bot, using the Discord.NET Library. 
-
+---
+I'm always open to questions & development projects. If you have something to say, I'd love to hear it!
 
